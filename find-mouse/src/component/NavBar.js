@@ -11,6 +11,7 @@ const NavBar = () => {
       Welcome User
 
       <NavLink to="/home">home</NavLink>
+      <NavLink to="/login">Login</NavLink>
 
     </div>
   )
